@@ -1,6 +1,8 @@
-# PPG_AndroidVersion
-Android application to demonstrate real time PPG using OpenCV
+# PPG_Android_StaticLinking
+<p><b>This project is under development and is currently unstable<b\></p>
+In this project I'm trying to link OpenCV statically so that, the app can run standalone without openCV manager app.
 
+<h3> ============= PPG_AndroidVersion's readme below ============ </h3>
 <h4>
 This Android app will measure the heartbeat in beats per minute of the user using a smartphone camera. 
 </h4>
