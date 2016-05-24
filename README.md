@@ -1,5 +1,5 @@
 # PPG_Android_StaticLinking
-<p><b>This project is under development and is currently unstable<b\></p>
+<p><b>This project is under development and is currently unstable</b></p>
 In this project I'm trying to link OpenCV statically so that, the app can run standalone without openCV manager app.
 
 <h3> ============= PPG_AndroidVersion's readme below ============ </h3>
